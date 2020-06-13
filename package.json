@@ -1,18 +1,18 @@
 {
   "name": "gittest",
   "version": "1.0.0",
-  "description": "This is a test directory to learn Git and Node",
+  "description": "description about code",
   "main": "index1.html",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/constsubhampaul/test.git"
   },
-  "author": "Subhamm Paul",
+  "author": "Subham Paul",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/constsubhampaul/test/issues"
